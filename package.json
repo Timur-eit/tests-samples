@@ -1,0 +1,26 @@
+{
+  "name": "tests-samples",
+  "version": "1.0.0",
+  "description": "to find out about testing in JS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timur-eit/tests-samples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timur-eit/tests-samples/issues"
+  },
+  "homepage": "https://github.com/Timur-eit/tests-samples#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "babel-jest": "^26.0.1",
+    "jest": "^26.0.1"
+  }
+}
